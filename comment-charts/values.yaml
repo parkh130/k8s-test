@@ -1,1 +1,1 @@
-image: asia-northeast3-docker.pkg.dev/k8s-project-365610/gar/comment:latest
+image: 114412873856.dkr.ecr.ap-northeast-2.amazonaws.com/park-test-ecr:latest
